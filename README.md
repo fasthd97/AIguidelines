@@ -1,4 +1,4 @@
-noobAI
+AI Guidelines
 A plain-language guide to using AI tools for your job search.
 No technical background required. If you can send a text message, you can do everything in this guide.
 
